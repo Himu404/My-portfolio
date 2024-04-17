@@ -13,7 +13,7 @@
     color: #c3ddd7;
     /* font-family: "Poppins", sans-serif; */
     /* text-decoration: overline underline; */
-    /* text-align: justify; */
+    text-align: justify;
     text-transform: uppercase;
     /* background-color: aliceblue; */
     text-indent: 50px;
@@ -88,7 +88,7 @@ footer {
 }
 
 #line2 {
-    /* width: 100%; */
+    width: 100%;
     height: 1px;
     background-color: aliceblue;
     /* margin-left: 5%;
